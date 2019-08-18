@@ -1,0 +1,15 @@
+/* Twins section */
+
+.sidebar {
+    background: hsl(0, 0%, 90%);
+}
+
+.twin {
+    padding: 2em;
+    background: #2185C5;
+    color: white;
+}
+
+.twin:last-of-type {
+    background: #FF7F66;
+}

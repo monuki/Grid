@@ -1,0 +1,21 @@
+/* Splash section */
+
+.splash {
+    background: #FFF6E5;
+    padding-bottom: 2em;
+}
+
+.splash-content {
+    padding: 1.5em;
+}
+
+@media screen and (min-width: 600px) {
+    .splash-text {
+        columns: 2;
+        column-gap: 2em;
+    }
+
+    .splash-text p {
+        padding-top: 0;
+    }
+}

@@ -1,0 +1,19 @@
+/*--------------------------------------------------------------
+General styling
+--------------------------------------------------------------*/
+
+img {
+    display: block;
+    border: 0;
+    width: 100%;
+    height: auto;
+}
+
+/* Header */
+
+.masthead {
+    padding: 0 1em;
+    text-align: center;
+    border-bottom: 1px solid hsl(0, 0%, 90%);
+}
+

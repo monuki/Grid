@@ -1,0 +1,15 @@
+/* Promo section */
+
+.logo,
+.site-title {
+    text-align: center;
+}
+
+.logo {
+    font-size: 8em;
+}
+
+.site-title {
+    margin-top: -1em;
+    margin-bottom: 3em;
+}

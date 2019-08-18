@@ -1,0 +1,22 @@
+/* Buckets section */
+
+.buckets {
+    padding: 2em 1em 1em;
+    background: #3E454C;
+}
+
+.buckets ul {
+    margin: 0;
+    padding: 0;
+}
+
+.buckets li {
+    margin-bottom: 1em;
+    background: white;
+    list-style-type: none;
+}
+
+.bucket {
+    padding: 1.5em;
+}
+

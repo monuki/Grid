@@ -1,0 +1,39 @@
+/*--------------------------------------------------------------
+Cards:
+--------------------------------------------------------------*/
+
+.cards {
+    max-width: 25em;
+    margin: 1em auto;
+    padding: 0;
+    list-style-type: none;
+
+}
+
+.cards a {
+    display: block;
+    margin-bottom: 1em;
+    text-decoration: none;
+}
+
+.caption {
+    padding: 1em;
+    font-size: 90%;
+    color: black;
+}
+
+.caption-title {
+    margin: 0;
+    font-size: 1.4em;
+    line-height: 1em;
+}
+
+.caption p {
+    margin-top: .5em;
+    margin-bottom: 0;
+}
+
+.cards a:focus .caption,
+.cards a:hover .caption {
+    background: hsl(0, 0%, 97%);
+}
